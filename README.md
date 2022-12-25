@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022/11/20 現在  
+2022/12/25 現在  
 
 名前: 森恭平  
 生年月日: 1999年7月27日(23歳)
@@ -27,7 +27,7 @@ TypeScript / JavaScript / Vue(Composition API / Options API) / Nuxt2 / Vuex / CS
 
 #### メンバー
 - PM: 1人
-- フロント：3 ~ 4人
+- フロント：2 ~ 4人
 - サーバー：3 ~ 4人
 - QA：1人
 
