@@ -20,7 +20,7 @@ TypeScript / JavaScript / Vue(Composition API / Options API) / Nuxt2 / Vuex / CS
 
 
 <details>
-<summary>プロジェクト1(2022/6~1)</summary>
+<summary>プロジェクト1(2022/6~11)</summary>
 
 #### 概要
 オンラインセミナー開催プラットフォームの分析機能の開発
