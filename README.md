@@ -37,8 +37,8 @@ TypeScript / JavaScript / Vue(Composition API / Options API) / Nuxt2 / Vuex / CS
 #### 技術
 TypeScript, Vue2(Composition API), SCSS, Atomic Design, Rails, RSpec
 
-<details>
-<summary>職務詳細</summary>
+<!-- <details>
+<summary>職務詳細</summary> -->
 
 #### 課題・問題点
 - コンポーネントの肥大化による、コードの可読性、保守性、再利用性の低下。それによるバグの発生。
@@ -77,7 +77,7 @@ QAエンジニアが算出していた品質数値を、60から80以上まで�
 
 - API取得時にラグがある場合のローディングUIの導入、検索時の検索ボタンやページネーションボタンの制御などの指摘されていない部分のUX改善も積極的に行なった。
 
-</details>
+<!-- </details> -->
 
 </details>
 
@@ -113,8 +113,10 @@ JavaScript, Vue2(Options API), SCSS, VonageVideoAPI
 - スピーカー・マイクテスト機能
 - チャット画面UI
 
-<details>
-<summary>取り組み・工夫した点</summary>
+<!-- <details>
+<summary>取り組み・工夫した点</summary> -->
+  
+#### 取り組み・工夫した点
 
 VonageVideoAPIというWebRTC技術を使ったAPIを使い、リアルタイムでセミナー配信をする機能のフロント側の実装を担当しました。
 
@@ -126,7 +128,7 @@ VonageVideoAPIというWebRTC技術を使ったAPIを使い、リアルタイム
 
 - JavaScriptを使っていることやVonageVIdeoAPIとの繋ぎ込みなどがたくさんあり、初見だとコードが読みづらくなっていたため、jsDocを使うことでコードにドキュメントの側面を持たせるよう工夫をした。
 
-</details>
+<!-- </details> -->
 
 </details>
 
@@ -158,8 +160,10 @@ TypeScript, Express, GraphQL, Apollo Server, Prisma
 - アカウントとステージ紐付け機能
 など
 
-<details>
-<summary>取り組み・工夫した点</summary>
+<!-- <details>
+<summary>取り組み・工夫した点</summary> -->
+  
+#### 取り組み・工夫した点
 
 - GraphQLやPrismaなど初めての技術が多かったため、休日も使い公式のチュートリアルやハンズオン教材などで積極的にキャッチアップを行った。
 
@@ -170,7 +174,7 @@ TypeScript, Express, GraphQL, Apollo Server, Prisma
 - また社内でもあまり知見のない技術スタックであると同時に、先方の予算都合で開発がストップすることがあり、人員の入れ替わりがこれからも多くなると予想し、後任の方用に自分がキャッチアップする際に参考になった教材や記事、環境構築で詰まった点、Stripe決済をローカルでテストする手順などをまとめた。
 自分が案件から抜けたあと、後任で入った方からキャッチアップの時間が短縮できて助かったと言ってもらえた。
 
-</details>
+<!-- </details> -->
 
 </details>
 
@@ -196,8 +200,11 @@ TypeScript, Express, GraphQL, Apollo Server, Prisma
 #### 技術
 TypeScript, Vue3(Composition API), TailwindCSS
 
-<details>
-<summary>取り組み</summary>
+<!-- <details>
+<summary>取り組み</summary> -->
+  
+#### 取り組み
+
 エンジニアとして入社して初めての案件で、TypeScript, Composition API, TailwindCSSなど初めての技術ばかりだったので、休日も使い既存コードや公式ドキュメントを参考に積極的にキャッチアップを行った。
 
 それでもわからない部分のコードに関してはわからないままにせず積極的に質問するようにしていた。
@@ -210,7 +217,7 @@ TypeScript, Vue3(Composition API), TailwindCSS
 
 上記の姿勢やキャッチアップの早さを評価いただき、リリース前の2週間ほどの間、1人でフロント側の改修作業、バグ修正を任せて頂き、無事納期に間に合った。
 
-</details>
+<!-- </details> -->
 
 </details>
 
