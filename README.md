@@ -16,7 +16,7 @@ TypeScript / JavaScript / Vue(Composition API / Options API) / Nuxt2 / Vuex / CS
 
 ## 職務経歴
 
-アルサーガパートナーズ株式会社（2021/10 ~ 現在）
+アルサーガパートナーズ株式会社（2021/10 ~ 2022/6）
 
 
 <details>
@@ -85,7 +85,7 @@ QAエンジニアが算出していた品質数値を、60から80以上まで�
 
 
 <details>
-<summary>プロジェクト2(2022/12~現在)</summary>
+<summary>プロジェクト2(2022/12~6)</summary>
   
 #### 概要
 冠婚葬祭の着物等の見積書・契約書作成システムの改修
