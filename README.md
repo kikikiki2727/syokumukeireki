@@ -16,7 +16,7 @@ TypeScript / JavaScript / Vue(Composition API / Options API) / Nuxt2 / Vuex / CS
 
 ## 職務経歴
 
-アルサーガパートナーズ株式会社（2021/10 ~ 2022/6）
+アルサーガパートナーズ株式会社（2021/10 ~ 2023/6）
 
 
 <details>
